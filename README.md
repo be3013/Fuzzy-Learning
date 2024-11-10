@@ -1,5 +1,6 @@
 # Sistema Fuzzy para Avaliação de Qualidade de Serviço
 https://colab.research.google.com/drive/1w7daBmb0JZIvWIe7pAMQUBahwXibXChR?usp=sharing
+https://drive.google.com/drive/folders/1dTZQBX3X1thLCA_BNFXrs--9fArzOt_v?usp=sharing
 
 Este projeto utiliza um sistema de lógica fuzzy para avaliar a qualidade de um serviço com base em duas entradas: comida e serviço. O modelo é treinado com um conjunto de regras fuzzy e salva um arquivo serializado, que pode ser usado para fazer predições em um segundo script.
 
